@@ -127,7 +127,7 @@ Membuat aplikasi sederhana toko sesuai kasus yang telah diberikan dosen.
  ```
 
 ## ClassDiagram
-
+![Class Diagram](https://github.com/Hernanda2829/TokoGue/blob/master/ClassDiagram1.png)
 
 
 ### Hernanda Giri Pramudita
