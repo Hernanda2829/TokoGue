@@ -130,7 +130,5 @@ Membuat aplikasi sederhana toko sesuai kasus yang telah diberikan dosen.
 ![Class Diagram](https://github.com/Hernanda2829/TokoGue/blob/master/ClassDiagram1.png)
 
 
-
-##
-### Hernanda Giri Pramudita
-### 19.11.2761
+## Hernanda Giri Pramudita
+## 19.11.2761
